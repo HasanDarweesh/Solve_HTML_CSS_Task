@@ -1,0 +1,27 @@
+.h1{
+    background-color: blue;
+    color: antiquewhite;
+    padding: 10px;
+    margin: 10px;
+    height: 50px;
+    width: 50%;
+    
+}
+.span2{
+
+    color: red;
+    text-transform: uppercase;
+}
+.div1{
+    padding: 10px;
+    margin: 10px;
+    width: 50%;
+}
+.span1{
+    color: royalblue;
+    text-transform: uppercase;
+
+}
+h3{
+    color: green;
+}
